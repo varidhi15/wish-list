@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1284935_automa_0.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-02-12 05:52:29</sys_created_on>
+        <sys_id>7500897d471082101c570c59e16d439b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1284935_automa_0.user</sys_name>
+        <sys_package display_value="automated_test" source="x_1284935_automa_0">5900897d471082101c570c59e16d4324</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="automated_test">5900897d471082101c570c59e16d4324</sys_scope>
+        <sys_update_name>sys_user_role_7500897d471082101c570c59e16d439b</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-02-12 05:52:29</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="automated_test">5900897d471082101c570c59e16d4324</application>
+        <file_path/>
+        <instance_id>75d4913f1b6a31d4699443f4bd4bcb1a</instance_id>
+        <instance_name>dev222256</instance_name>
+        <name>sys_user_role_7500897d471082101c570c59e16d439b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Default user role</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_1284935_automa_0.user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>aes.creator</sys_created_by><sys_created_on>2024-02-12 05:52:29</sys_created_on><sys_id>7500897d471082101c570c59e16d439b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1284935_automa_0.user</sys_name><sys_package display_value="automated_test" source="x_1284935_automa_0">5900897d471082101c570c59e16d4324</sys_package><sys_policy/><sys_scope display_value="automated_test">5900897d471082101c570c59e16d4324</sys_scope><sys_update_name>sys_user_role_7500897d471082101c570c59e16d439b</sys_update_name><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2024-02-12 05:52:29</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>699394214</payload_hash>
+        <record_name>x_1284935_automa_0.user</record_name>
+        <reverted_from/>
+        <source>2100897d471082101c570c59e16d4393</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-02-12 05:52:29</sys_created_on>
+        <sys_id>f500897d471082101c570c59e16d439d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d9bdfc3520000001</sys_recorded_at>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-02-12 05:52:29</sys_updated_on>
+        <type>Role</type>
+        <update_guid>3d00897d7b108210bea422130ec7a99c</update_guid>
+        <update_guid_history>3d00897d7b108210bea422130ec7a99c:699394214</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1284935_automa_0.user">28034931475082101c570c59e16d43cb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-02-12 06:05:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>4512cb01023243809d3f7f8e9f56da90</sys_id>
+        <sys_metadata>7500897d471082101c570c59e16d439b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1284935_automa_0.user</sys_name>
+        <sys_package display_value="automated_test" source="x_1284935_automa_0">5900897d471082101c570c59e16d4324</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="automated_test">5900897d471082101c570c59e16d4324</sys_scope>
+        <sys_scope_delete display_value="">18862f9336244b5c997b0cb9d87af290</sys_scope_delete>
+        <sys_update_name>sys_user_role_7500897d471082101c570c59e16d439b</sys_update_name>
+        <sys_update_version display_value="sys_user_role_7500897d471082101c570c59e16d439b">f500897d471082101c570c59e16d439d</sys_update_version>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-02-12 06:05:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

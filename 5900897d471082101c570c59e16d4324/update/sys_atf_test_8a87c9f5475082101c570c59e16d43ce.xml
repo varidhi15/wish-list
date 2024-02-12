@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>-</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <fail_on_server_error>true</fail_on_server_error>
+        <name>My New Test</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-12 06:25:28</sys_created_on>
+        <sys_id>8a87c9f5475082101c570c59e16d43ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My New Test</sys_name>
+        <sys_package display_value="automated_test" source="x_1284935_automa_0">5900897d471082101c570c59e16d4324</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="automated_test">5900897d471082101c570c59e16d4324</sys_scope>
+        <sys_update_name>sys_atf_test_8a87c9f5475082101c570c59e16d43ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-12 06:25:28</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=8a87c9f5475082101c570c59e16d43ce"/>
+</record_update>

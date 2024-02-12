@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1284935_automa_0.admin" name="x_1284935_automa_0.admin">b500897d471082101c570c59e16d4398</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-02-12 05:52:29</sys_created_on>
+        <sys_id>7100897d471082101c570c59e16d4399</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b500897d471082101c570c59e16d4398</sys_name>
+        <sys_package display_value="automated_test" source="x_1284935_automa_0">5900897d471082101c570c59e16d4324</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="automated_test">5900897d471082101c570c59e16d4324</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7100897d471082101c570c59e16d4399</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-02-12 05:52:29</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
